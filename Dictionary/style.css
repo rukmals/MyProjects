@@ -1,0 +1,67 @@
+body{
+    font-size : 20px;
+}
+#header{
+    width:50%;
+    margin: 40px auto 0px;
+    color:white;
+    background:blue;
+    text-align:center;
+    border:1px solid rgb(110, 26, 26);
+    border-radius:8px 8px 0px 0px;
+}
+#wrapper{
+    width:50%;
+    margin: 0px auto;
+    border:1px solid gray;
+}
+#wrapper:after{
+    content:"";
+    display:block;
+    clear:both;
+}
+#words{
+    width:29%;
+    background:#dcdcdc;
+    padding-top:10px;
+    float:left;
+
+}
+#word{
+    width:69%;
+    float:left;
+    padding-left:10px;
+}
+#word_list{
+    font-size: 20px;
+    max-height: 350px;
+    overflow-y: scroll;
+}
+li{
+    list-style-type: none;
+    line-height: 1.4em;
+}
+li:hover{
+    cursor: pointer;
+    color: blue;
+    align-content: center;
+}
+ul{
+    margin-left: -10px;
+}
+h3{
+    color: blue;
+}
+#search{
+    margin-left:10px;
+    width:65%;
+    padding:5px;
+    height: 13px;
+}
+button{
+    height:26px;
+    background: blue;
+    color:white;
+    border:none;
+    border-radius: 4px;
+}
