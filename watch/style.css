@@ -1,0 +1,13 @@
+h1,h2,h3{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;;
+    color:red;
+}
+
+body{
+    background-image: url("Sexy-Cars-and-Girls-Wallpaper-and-Pictures-23.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size:cover;
+    
+}
