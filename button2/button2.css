@@ -1,0 +1,27 @@
+#button{
+    text-align:center;
+    padding-top: 200px;
+}
+.buttonClass {
+    width:96px;
+    height:48px;
+    font-size:24px;
+    background-color:green;
+    color:white;
+}
+#buttonset_2{
+    border-color: black;
+    padding-top: 5px;
+}
+#buttonset_3{
+    border-color: black;
+    padding-top: 5px;
+}
+body{
+    background-image: url("Sexy-Cars-and-Girls-Wallpaper-and-Pictures-23.jpg");
+    
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size:cover;
+    
+}
